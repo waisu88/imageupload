@@ -1,0 +1,7 @@
+Django>=4.2.1,<4.3
+psycopg2-binary
+djangorestframework
+celery[redis]
+redis==4.5.5
+Pillow==9.4.0
+easy-thumbnails==2.8.5
